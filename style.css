@@ -1,4 +1,9 @@
-h1 {
-    background-color: blueviolet;
+h1.center {
+    background-color: purple;
     color: red;
+    text-align: center;
+}
+
+label {
+    margin-left: 45%;
 }

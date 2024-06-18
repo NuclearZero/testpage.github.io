@@ -1,8 +1,8 @@
-let counter = 0;
+let counter = "o";
 
 function messageToConsole(){
-    alert("Llamada " + counter);
-    counter++;
+    alert("Put" + counter + "!");
+    counter += "o";
 }
 
 document.addEventListener('DOMContentLoaded', () => {
